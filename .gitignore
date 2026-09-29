@@ -1,0 +1,19 @@
+# Archivos compilados de Java
+*.class
+
+# Bases de datos generadas en tiempo de ejecución
+*.db
+citas.db
+
+# Logs
+*.log
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
